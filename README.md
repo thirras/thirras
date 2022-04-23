@@ -1,6 +1,6 @@
 - 👋 
 - 🌱 Programming beginner and pentester enthusiast
-- 📫 yrr@duck.com or thirras#9693 
+- 📫 yrr@duck.com or thirras#9693 for contact!
 
 <!---
 thirras/thirras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
