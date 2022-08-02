@@ -1,5 +1,5 @@
 - 👋 
-- 🌱 Programming beginner and pentester enthusiast
+- 🌱 Python enjoyer
 - 📫 yrr@duck.com or thirras#9693 for contact!
 
 <!---
